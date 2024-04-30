@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34321.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mavericks_Bank", "Mavericks_Bank\Mavericks_Bank.csproj", "{0D8E4EFB-FE85-4CCC-8B02-5728104EC869}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Mavericks_Bank", "Test_Mavericks_Bank\Test_Mavericks_Bank.csproj", "{9E541CE4-65F5-47A0-9459-D6A267776784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D8E4EFB-FE85-4CCC-8B02-5728104EC869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8E4EFB-FE85-4CCC-8B02-5728104EC869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D8E4EFB-FE85-4CCC-8B02-5728104EC869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D8E4EFB-FE85-4CCC-8B02-5728104EC869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E541CE4-65F5-47A0-9459-D6A267776784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E541CE4-65F5-47A0-9459-D6A267776784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E541CE4-65F5-47A0-9459-D6A267776784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E541CE4-65F5-47A0-9459-D6A267776784}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4201AA55-2429-4A6D-90D0-ED9C1788F940}
+	EndGlobalSection
+EndGlobal
